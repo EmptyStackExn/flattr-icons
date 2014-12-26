@@ -1,28 +1,19 @@
-Flattr (icon theme)
+Mono Dark Flattr (icon theme)
 ============
 
-Flattr is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
+Mono Dark Flattr is yet another icon theme for Linux desktops that was forked from [Flattr (NitruxSA/flattr-icons)](https://github.com/NitruxSA/flattr-icons) and [Ultra-Flat-Icons (steftrikia)](http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477). The aim is to combine the latest [flat design trend](bits.blogs.nytimes.com/2013/04/23/the-flattening-of-design/) with [Ambiance](http://gnome-look.org/content/show.php?content=147891)/[Mono Dark](http://packages.ubuntu.com/fr/lucid/gnome/ubuntu-mono) themes (still widely spread among [GNOME 3 Fallback Session (Classic)](https://launchpad.net/ubuntu/precise/+package/gnome-session-fallback) users on recent [Ubuntu systems](http://releases.ubuntu.com/12.04/)).
 
-![Flattr preview](http://fc06.deviantart.net/fs71/i/2013/355/1/d/flattr_by_deviantn7k1-d6837ad.png "Flattr is a flat icon theme for Linux")
+![Mono Dark Flattr preview](https://raw.githubusercontent.com/EmptyStackExn/mono-dark-flattr-icons/master/desktop-appindicator.png "Mono Dark Flattr is a flat icon theme for Linux")
 
-Icons are licensed under the Creative Commons License (CC BY-SA 4.0). 
+----------------------
+
+Usage
+----------------------
+To install this icon theme, you can clone this repository into `/usr/share/icons/mono-dark-flattr-icons` and then set with `gnome-tweak-tool` the icon theme to `Mono-dark-flattr-icons`.
+
+Credits
+----------------------
+Flattr icons (issued by NitruxSA) are licensed under the Creative Commons License (CC BY-SA 4.0). All credits to NitruxSA team.
 * Check **LICENSE** for more information.
 
 
-Help add more icons!
--------------
-
-* You are free to clone this public repository to:
-
-  * Get the latest version 
-  * And to add new icons
-
-`git clone https://github.com/NitruxSA/flattr-icons.git`
-
-
-Notes
--------------
-
-Before submitting icons, make sure to use the proper template for the icon you wish to do using the files in the folder **flattr-templates**.
-
-You will need Inkscape to modify the SVG files, we recommend you to use the latest version possible as the stable one might add unnecessary data to the files.

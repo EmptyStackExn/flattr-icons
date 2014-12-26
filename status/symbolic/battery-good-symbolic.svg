@@ -15,7 +15,7 @@
    height="16"
    id="svg2"
    style="display:inline"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="battery-good-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="839"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
      id="namedview26"
      showgrid="true"
      inkscape:zoom="28.356086"
      inkscape:cx="10.182144"
      inkscape:cy="6.4739878"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="true">
@@ -142,12 +142,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none"
+     style="opacity:0.50000000000000000;fill:#f9f9f9;fill-opacity:1;stroke:none"
      d="m 8.003936,0.06383115 c -4.3944577,0 -7.9322335,3.54333705 -7.9322335,7.94470155 0,4.4013643 3.5377758,7.9447013 7.9322335,7.9447013 4.394457,0 7.932233,-3.543337 7.932233,-7.9447013 0,-4.4013645 -3.537776,-7.94470155 -7.932233,-7.94470155 z m 0,2.11858695 c 3.222601,0 5.816971,2.5984473 5.816971,5.8261146 0,3.2276673 -2.59437,5.8261143 -5.816971,5.8261143 -3.2226024,0 -5.8169713,-2.598447 -5.8169713,-5.8261143 0,-3.2276673 2.5943689,-5.8261146 5.8169713,-5.8261146 z"
      id="rect4116"
      inkscape:connector-curvature="0"
@@ -156,10 +156,10 @@
      inkscape:connector-curvature="0"
      id="path3796"
      d="m 8.003936,3.7713586 -2.1152625,5.2964676 2.1152625,0 0,3.7075278 2.115262,-5.2964681 -2.115262,0 z"
-     style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none"
      sodipodi:nodetypes="ccccccc" />
   <path
-     style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 0.65625 5 C 0.2793212 5.9271546 0.0625 6.9340445 0.0625 8 C 0.0625 12.401364 3.6055423 15.96875 8 15.96875 C 12.394457 15.96875 15.9375 12.401364 15.9375 8 C 15.9375 6.9335735 15.720995 5.9274861 15.34375 5 L 13 5 C 13.526244 5.8767212 13.8125 6.8984003 13.8125 8 C 13.8125 11.227667 11.222601 13.84375 8 13.84375 C 4.7773976 13.84375 2.1875 11.227667 2.1875 8 C 2.1875 6.8951447 2.5021232 5.878413 3.03125 5 L 0.65625 5 z "
      id="rect3798" />
 </svg>
