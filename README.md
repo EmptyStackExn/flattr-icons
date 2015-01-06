@@ -9,7 +9,7 @@ Mono Dark Flattr is yet another icon theme for Linux desktops that was forked fr
 
 Usage
 ----------------------
-To install this icon theme, you can clone this repository into `/usr/share/icons/mono-dark-flattr-icons` and then set with `gnome-tweak-tool` the icon theme to `Mono-dark-flattr-icons`.
+To install this icon theme, you can clone this repository into `/usr/share/icons/mono-dark-flattr-icons` and then set with `gnome-tweak-tool` the icon theme to `Mono-dark-flattr-icons`. It follows the [GNOME Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/latest/).
 
 Credits
 ----------------------
