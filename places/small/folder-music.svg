@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.48.5 r"
-   sodipodi:docname="folder-pictures.svg">
+   sodipodi:docname="folder-music.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="22.722557"
-     inkscape:cy="25.848995"
+     inkscape:cx="2.5263595"
+     inkscape:cy="30.968159"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
@@ -174,13 +174,6 @@
        x="4"
        y="9" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="folderPaper"
-       width="35.999992"
-       height="27.999756"
-       x="6"
-       y="10.9998" />
-    <rect
        y="12.999983"
        x="2"
        height="28.000008"
@@ -188,9 +181,9 @@
        id="folderFront"
        style="fill:#c0392b;fill-opacity:1;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
        style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 13.999998,16.999987 0,20 20,0 0,-20 -20,0 z m 2,2 16,0 0,12 -4,-8 -4.6875,9.375 -2.8125,-4.375 -4.5,7 0,-16 z"
-       id="folderGlyph" />
+       d="m 18.999998,16.999987 0,4 0,9.392578 c -0.465079,-0.241181 -0.973566,-0.392607 -1.501953,-0.392578 -1.832722,10e-5 -3.498047,1.6675 -3.498047,3.5 0,1.8324 1.665325,3.4999 3.498047,3.5 1.832723,1e-4 3.501953,-1.6674 3.501953,-3.5 l 0,-12.5 11,0 0,9.392578 c -0.465079,-0.241181 -0.973566,-0.392607 -1.501953,-0.392578 -1.832722,10e-5 -3.498047,1.6675 -3.498047,3.5 0,1.8324 1.665325,3.4999 3.498047,3.5 1.832723,1e-4 3.501953,-1.6674 3.501953,-3.5 l 0,-12.5 0,-4 -15,0 z"
+       id="folderGlyph"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

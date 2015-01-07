@@ -14,7 +14,7 @@
    id="svg865"
    version="1.1"
    inkscape:version="0.48.5 r"
-   sodipodi:docname="folder-pictures.svg">
+   sodipodi:docname="folder-download.svg">
   <defs
      id="defs867" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="22.722557"
-     inkscape:cy="25.848995"
+     inkscape:zoom="12.181364"
+     inkscape:cx="-3.7714911"
+     inkscape:cy="32.945145"
      inkscape:document-units="px"
      inkscape:current-layer="folderLayer"
      showgrid="false"
@@ -160,7 +160,7 @@
      id="folderLayer"
      inkscape:label="folder">
     <rect
-       y="6.9996948"
+       y="6.9996953"
        x="4"
        height="10"
        width="18"
@@ -174,13 +174,6 @@
        x="4"
        y="9" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="folderPaper"
-       width="35.999992"
-       height="27.999756"
-       x="6"
-       y="10.9998" />
-    <rect
        y="12.999983"
        x="2"
        height="28.000008"
@@ -188,9 +181,9 @@
        id="folderFront"
        style="fill:#c0392b;fill-opacity:1;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#304050;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 13.999998,16.999987 0,20 20,0 0,-20 -20,0 z m 2,2 16,0 0,12 -4,-8 -4.6875,9.375 -2.8125,-4.375 -4.5,7 0,-16 z"
-       id="folderGlyph" />
+       style="fill:#304050;fill-opacity:1;stroke:none"
+       d="m 23.996092,16.999987 c -2.618175,1.55e-4 -5.220352,1.078467 -7.070312,2.929688 -1.849961,1.85122 -2.925782,4.452529 -2.925782,7.070312 0,2.617783 1.075821,5.219093 2.925782,7.070313 1.849961,1.851221 4.452137,2.929532 7.070312,2.929687 2.618174,1.55e-4 5.219945,-1.078457 7.072266,-2.929687 1.852322,-1.851229 2.93164,-4.452238 2.93164,-7.070313 0,-2.618075 -1.079318,-5.219083 -2.93164,-7.070312 -1.852321,-1.85123 -4.454092,-2.929843 -7.072266,-2.929688 z m 0,2 c 4.189079,-2.48e-4 8.003906,3.81108 8.003906,8 0,4.18892 -3.814827,8.000248 -8.003906,8 -4.18908,-2.48e-4 -7.996094,-3.811547 -7.996094,-8 0,-4.188453 3.807014,-7.999752 7.996094,-8 z m -1.996094,2 0,5 -4,0 6,7 6,-7 -4,0 0,-5 -4,0 z"
+       id="folderGlyph"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
